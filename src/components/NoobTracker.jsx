@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import styles from "./Noobtracker.module.css";
+import styles from "./NoobTracker.module.css";
 
 const COLORS = ["#FF9304", "#FFBB28", "#A000FF"];
 
