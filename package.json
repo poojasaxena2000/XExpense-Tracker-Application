@@ -1,5 +1,5 @@
 {
-  "name": "xexpensetracker",
+  "name": "xexpense-tracker-ab42ef8b8da343ec6bd3b64274ff157eaf092b3c",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.1.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^4.1.3"
   },
   "devDependencies": {
